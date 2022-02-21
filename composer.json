@@ -22,7 +22,7 @@
         "behat/symfony2-extension": "^2.0",
         "doctrine/data-fixtures": "^1.0",
         "doctrine/orm": "^2.6",
-        "symfony/dependency-injection": "^3.4|^4.0"
+        "symfony/dependency-injection": "^3.4|^4.0|^5.0"
     },
     "require-dev": {
         "doctrine/doctrine-bundle": "^1.8",
